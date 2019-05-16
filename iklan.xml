@@ -25,7 +25,7 @@
               <ClickTracking>https://s3.amazonaws.com/demo.jwplayer.com/static-tag/pixel.gif</ClickTracking>
             </VideoClicks>
             <MediaFiles>
-              <MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="400" width="1200" height="514">https://play.dewamovie21.tech/img/dolby5.mp4</MediaFile>
+              <MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="400" width="1200" height="514">https://github.com/dedsec404/404-not-found/blob/master/Into%20%5BNekoEXE%5D.mp4?raw=true</MediaFile>
             </MediaFiles>
           </Linear>
         </Creative>
